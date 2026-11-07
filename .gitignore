@@ -1,0 +1,14 @@
+.test-data/
+.test-install/
+.test-package/
+dist/
+node_modules/
+*.log
+.DS_Store
+.backend-test/
+ .build-check/
+.ui-test/
+release/.build-check/
+.ui-test/
+.backend-test/
+release/
